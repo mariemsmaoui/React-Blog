@@ -1,0 +1,22 @@
+{
+   "blogs": [
+        {
+          "title": "my website",
+          "body": "hello and welcome here",
+          "author": "mario",
+          "id": 1
+        },
+        {
+          "title": "web developement tips",
+          "body": "hello here",
+          "author": "max",
+          "id": 2
+        },
+        {
+          "title": "Web developement website",
+          "body": "welcome here",
+          "author": "maria",
+          "id": 3
+        }
+      ]
+}
